@@ -196,6 +196,7 @@
 				TargetAttributes = {
 					1C273BF81E35192E001E30A2 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 6934B89794;
 						ProvisioningStyle = Automatic;
 					};
 					1C273C0C1E35192E001E30A2 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6934B89794;
 				INFOPLIST_FILE = WUImageScaler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = CorbanSwain.WUImageScaler;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6934B89794;
 				INFOPLIST_FILE = WUImageScaler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = CorbanSwain.WUImageScaler;

@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         
         let sliderValue = sender.value
         image.alpha = CGFloat(sliderValue)
-        label.text = "Opacity: \(String(Int(sliderValue*100)))%"
+        label.text = "\(String(Int(sliderValue*100)))%"
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
